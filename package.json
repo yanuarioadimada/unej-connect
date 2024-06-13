@@ -1,17 +1,15 @@
 {
-  "name": "hotel-mgmt-system",
+  "name": "unej-connect",
   "version": "1.0.1",
-  "description": "Hotel booking system for customer added with an admin feature to manage reservation.",
+  "description": "UNEJ connect",
   "keywords": [
-    "hotel",
-    "hotel booking",
-    "room reservation",
-    "hotel booking system",
-    "hotel reservation system"
+    "unej",
+    "reservasi gedung",
+    "universitas jember"
   ],
-  "repository": "https://github.com/tramyardg/hotel-mgmt-system",
-  "homepage": "http://hotel-mgmt-system.co.nf/",
-  "author": "Raymart De Guzman <raymart54@gmail.com>",
+  "repository": "https://github.com/yanuarioadimada/unej-connect.git",
+  "homepage": "http://localhost/unej-connect/index.php",
+  "author": "Yanuario Adimada <yanuarioadimada@gmail.com>",
   "private": false,
   "scripts": {
     "eslint": "eslint js/*.js"
