@@ -8,7 +8,7 @@ if (isset($_SESSION["authenticated"]))
     {
         header("Location: index.php");
     } 
-}
+} 
 ?>
 <!doctype html>
 <html lang="en">
