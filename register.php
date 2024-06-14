@@ -7,7 +7,7 @@ if (isset($_SESSION["authenticated"]))
     if ($_SESSION["authenticated"] == "1")
     {
         header("Location: index.php");
-    }
+    } 
 }
 ?>
 <!doctype html>
